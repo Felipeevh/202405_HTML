@@ -1,0 +1,15 @@
+.texto{
+    color: blue;
+}
+
+#bttn_primero{
+    background-color: green;
+}
+
+#bttn_segundo{
+    background-color: red;
+}
+
+#bttn_tercero{
+    background-color: yellow;
+}
