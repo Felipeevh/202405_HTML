@@ -1,0 +1,29 @@
+.buscar{
+    background-color: gray;
+    border-radius: 15px;
+    height: 50px;
+    width: 100px;
+    font-size: medium;
+    display: block;
+    border-color: black;
+    border: 5%;
+}
+.mas{
+    background-color: orange;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    font-size: medium;
+    display: block;
+    margin-left: 25px;
+    border: none;
+    color:white
+}
+.crear{
+    background-color: lightblue;
+    height: 50px;
+    width: 100px;
+    font-size: medium;
+    color: white;
+    box-shadow: 5px 5px 5px rgb(106, 104, 104);
+};
